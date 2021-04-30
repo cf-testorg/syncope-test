@@ -405,7 +405,7 @@ under the License.
     <connid.servicenow.version>1.0.0</connid.servicenow.version>
 
     <cxf.version>3.4.0</cxf.version>
-    <bouncycastle.version>1.66</bouncycastle.version>
+    <bouncycastle.version>1.68</bouncycastle.version>
 
     <jackson.version>2.11.3</jackson.version>
 
